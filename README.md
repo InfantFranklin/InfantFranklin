@@ -72,16 +72,11 @@ Hey there! I'm Infant Franklin, a passionate web developer with hands-on experie
 </p>
 <div>
   <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=infantfranklin&show_icons=true&locale=en&layout=compact" alt="infantfranklin" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=infantfranklin&show_icons=true&locale=en" alt="infantfranklin" />
   </p>
-  <br clear="both">
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=infantfranklin&show_icons=true&locale=en&layout=compact" alt="infantfranklin" />
-  </p>
 </div>
-<br/>
-
-
+    
 **What I'm Up To**
 
 Currently, I'm diving deep into React.js and am always eager to learn new things. My GitHub repositories showcase my coding journey, from small projects to more complex ones. Feel free to explore and provide feedback.
@@ -91,19 +86,3 @@ Currently, I'm diving deep into React.js and am always eager to learn new things
 I'm always open to collaborations, discussions, and learning opportunities. Don't hesitate to reach out through my social media or drop a message here on GitHub. Let's build something amazing together!
 
 Happy coding! 🚀
-
-
-<!--
-**InfantFranklin/InfantFranklin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
