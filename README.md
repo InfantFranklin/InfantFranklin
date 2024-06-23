@@ -42,6 +42,9 @@ Hey there! I'm Infant Franklin, a passionate web developer with hands-on experie
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
 </p>
 <h3 align="left">DataBase:</h3>
 <p>
@@ -73,16 +76,16 @@ Hey there! I'm Infant Franklin, a passionate web developer with hands-on experie
 <div>
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=infantfranklin&show_icons=true&locale=en&layout=compact" alt="infantfranklin" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=infantfranklin&show_icons=true&locale=en" alt="infantfranklin" />
+<!--     <img align="center" src="https://github-readme-stats.vercel.app/api?username=infantfranklin&show_icons=true&locale=en" alt="infantfranklin" /> -->
   </p>
 </div>
-    
-**What I'm Up To**
+  <div>
+    <p>**What I'm Up To**</p><br/>
+    <p>I'm diving deep into React.js and Node.js and am always eager to learn new things. My GitHub repositories showcase my coding journey, from small projects to more complex ones. Feel free to explore and provide feedback.</p><br/>
+    <p>**Let's Connect!**</p><br/>
+    <p>I'm always open to collaborations, discussions, and learning opportunities. Don't hesitate to reach out through my social media or drop a message here on GitHub. Let's build something amazing together!
+</p><br/>
 
-Currently, I'm diving deep into React.js and am always eager to learn new things. My GitHub repositories showcase my coding journey, from small projects to more complex ones. Feel free to explore and provide feedback.
+  </div>
 
-**Let's Connect!**
 
-I'm always open to collaborations, discussions, and learning opportunities. Don't hesitate to reach out through my social media or drop a message here on GitHub. Let's build something amazing together!
-
-Happy coding! 🚀
